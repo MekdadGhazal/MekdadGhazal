@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mekdad Ghazal
 -  I am 22, Syrian 😐
 -  I am IT, Networking Engineer and Backend Developer.
-- 👀 I’m interested in Backend website
-- 🌱 I’m currently learning Mastering Laravel 
-- 💞️ I’m looking to collaborate on frontend and backend
+- 👀 I’m interested in website Development.
+- 🌱 I’m currently learning Mastering Laravel.
+- 💞️ I’m looking to collaborate on some frontend and full backend.
 - 📫 Reach me on socailmedia ... all available 😶
 
 <!---
